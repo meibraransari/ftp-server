@@ -1,6 +1,6 @@
 ---
 Created: 2024-07-27T13:55:51+05:30
-Updated: 2024-07-27T13:56:17+05:30
+Updated: 2024-07-30T08:03:25+05:30
 Maintainer: Ibrar Ansari
 ---
 # FTP Server
@@ -11,8 +11,13 @@ A simple FTP server, using docker to share data (Upload/Download) easially.
 
 ### Start a FTP Server instance
 
-To start a container, with data stored in `/data` on the host, use the
-following:
+To start a container use the following:
+
+> Change below variable before start it.
+FTP_USER
+FTP_PASS
+/data
+
 
 ```sh
 docker run \
