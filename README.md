@@ -1,18 +1,15 @@
 ---
 Created: 2024-07-27T13:55:51+05:30
-Updated: 2024-08-31T23:08:00+05:30
+Updated: 2024-08-31T23:12:52+05:30
 Maintainer: Ibrar Ansari
 ---
 # FTP Server
 
-A simple FTP server, using docker to share data (Upload/Download) easily.
+Quickly Spin Up an FTP Server in Minutes: A simple FTP server, using docker to share data (Upload/Download) easily.
 
-## How to use this image
-
-### Start a FTP Server instance
+### Change FTP Server Variable
 
 To start a container use the following:
-
 > Change below variable before start it.
 ```
 FTP_CONTAINER_NAME=ftp_server
@@ -21,7 +18,7 @@ FTP_PASS=123
 FTP_DATA_PATH=/data
 ```
 
-## Run Container
+### Run Container
 ```sh
 docker run -d \
     --name $FTP_CONTAINER_NAME \
@@ -34,7 +31,7 @@ docker run -d \
 	ibraransaridocker/ftp-server
 ```
 
-## Connect FTP 
+### Connect FTP 
 Configure FileZilla settings before connecting it.
 Open FileZilla, Edit > Setting
 - FTP
