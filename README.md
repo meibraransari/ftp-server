@@ -1,6 +1,6 @@
 ---
 Created: 2024-07-27T13:55:51+05:30
-Updated: 2024-08-31T23:06:22+05:30
+Updated: 2024-08-31T23:07:33+05:30
 Maintainer: Ibrar Ansari
 ---
 # FTP Server
@@ -34,12 +34,12 @@ docker run -d \
 	ibraransaridocker/ftp-server
 ```
 
-## Connect FTP
+## Connect FTP 
 Configure FileZilla settings before connecting it.
 Open FileZilla, Edit > Setting
 - FTP
 	- Transfer Mode =>Active
-	- [] Allow fallback to other transfer mode on failure.
+	- [✔] Allow fallback to other transfer mode on failure.
 		-  Active Mode
 			- Limit Local ports by FileZilla
 			- Lowest Available Port: 40000
