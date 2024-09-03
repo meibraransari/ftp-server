@@ -1,6 +1,6 @@
 ---
 Created: 2024-07-27T13:55:51+05:30
-Updated: 2024-09-03T08:13:06+05:30
+Updated: 2024-09-03T08:14:28+05:30
 Maintainer: Ibrar Ansari
 ---
 # FTP Server (Just in 15 Seconds)
@@ -68,8 +68,9 @@ Enjoy 😊
 ### Conclusion
 This project streamlines the process of deploying a secure FTP server through Docker. By utilizing Docker, you can achieve faster deployment of FTP Server.
 
-
-### 💼 Connect with me 👇👇 😊
+## Thank you for the Support 😊
+- ⭐ Give this repo a ⭐ star ⭐ at the top of the page
+### 💼 Connect with me 👇
 
 - 🔥 [**Youtube**](https://www.youtube.com/@DevOpsinAction?sub_confirmation=1)
 - ✍ [**Blog**](https://ibraransari.blogspot.com/)
