@@ -1,6 +1,6 @@
 ---
 Created: 2024-07-27T13:55:51+05:30
-Updated: 2024-09-03T08:14:28+05:30
+Updated: 2024-09-03T08:22:05+05:30
 Maintainer: Ibrar Ansari
 ---
 # FTP Server (Just in 15 Seconds)
@@ -10,6 +10,7 @@ This repository contains information to deploy a FTP server using Docker. The se
 ## Table of Contents
 
 - [Prerequisites](#prerequisites)
+- [Features](#Features)
 - [Quick Start](#quick-start)
 	- [Change FTP Server Variable](#Change-FTP-Server-Variable)
 	- [Run Container](#Run-Container)
@@ -20,10 +21,16 @@ This repository contains information to deploy a FTP server using Docker. The se
 [![Watch on Youtube](https://i.ytimg.com/vi/iadE-Px-aYQ/maxresdefault.jpg)](https://youtu.be/iadE-Px-aYQ?si=i9ufOZHcb2msOi8L)
 
 ## Prerequisites
-- Docker  must be installed on your system.
-- Basic understanding of Docker and SFTP.
+- Docker must be installed on your system.
+- Basic understanding of Docker and FTP.
 - Basic knowledge of command-line operations.
 ## Quick Start
+### Features
+- Run server within 15 Seconds.
+- No static Username and password.
+- Change username and password according to your need.
+- Share new/existing directory data with FTP server.
+- Rest all FTP server features included.
 ### Change FTP Server Variable
 
 To start a container use the following:
