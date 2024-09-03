@@ -1,6 +1,6 @@
 ---
 Created: 2024-07-27T13:55:51+05:30
-Updated: 2024-09-03T08:08:56+05:30
+Updated: 2024-09-03T08:10:06+05:30
 Maintainer: Ibrar Ansari
 ---
 # FTP Server
@@ -11,9 +11,9 @@ This repository contains information to deploy a FTP server using Docker. The se
 
 - [Prerequisites](#prerequisites)
 - [Quick Start](#quick-start)
-	- [Change FTP Server Variable](#Change FTP Server Variable)  
-	- [Run Container](#Run Container) 
-- [Connect FTP ](#Connect FTP )
+	- [Change FTP Server Variable](#Change FTP Server Variable)
+	- [Run Container](#Run Container)
+- [Connect FTP ](#Connect FTP)
 - [Conclusion](#Conclusion) 
 
 ## 🎬 Video demonstration
@@ -48,7 +48,7 @@ docker run -d \
 	ibraransaridocker/ftp-server
 ```
 
-### Connect FTP 
+### Connect FTP
 Configure FileZilla settings before connecting it.
 Open FileZilla, Edit > Setting
 - FTP
