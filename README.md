@@ -1,9 +1,9 @@
 ---
 Created: 2024-07-27T13:55:51+05:30
-Updated: 2024-09-03T08:11:46+05:30
+Updated: 2024-09-03T08:13:06+05:30
 Maintainer: Ibrar Ansari
 ---
-# FTP Server
+# FTP Server (Just in 15 Seconds)
 
 This repository contains information to deploy a FTP server using Docker. The setup includes Demonstration ands steps. The main aim is to quickly Spin Up an FTP Server in Seconds and share data (Upload/Download) easily with Dynamic username and password.
 
