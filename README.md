@@ -1,12 +1,29 @@
 ---
 Created: 2024-07-27T13:55:51+05:30
-Updated: 2024-08-31T23:12:52+05:30
+Updated: 2024-09-03T08:06:41+05:30
 Maintainer: Ibrar Ansari
 ---
 # FTP Server
 
-Quickly Spin Up an FTP Server in Minutes: A simple FTP server, using docker to share data (Upload/Download) easily.
+This repository contains information to deploy a FTP server using Docker. The setup includes Demonstration ands steps. The main aim is to quickly Spin Up an FTP Server in Seconds and share data (Upload/Download) easily with Dynamic username and password.
 
+## Table of Contents
+
+- [Prerequisites](#prerequisites)
+- [Quick Start](#quick-start)
+	- [Change FTP Server Variable](### Change FTP Server Variable)  
+	- [Run Container](### Run Container) 
+- [Connect FTP ](### Connect FTP )
+- [Conclusion](### Conclusion) 
+
+## 🎬 Video demonstration
+[![Watch on Youtube](https://i.ytimg.com/vi/iadE-Px-aYQ/maxresdefault.jpg)](https://youtu.be/iadE-Px-aYQ?si=i9ufOZHcb2msOi8L)
+
+## Prerequisites
+- Docker  must be installed on your system.
+- Basic understanding of Docker and SFTP.
+- Basic knowledge of command-line operations.
+## Quick Start
 ### Change FTP Server Variable
 
 To start a container use the following:
@@ -47,6 +64,10 @@ Open FileZilla, Edit > Setting
 
 Connect FTP server using above provided details
 Enjoy 😊
+
+### Conclusion
+This project streamlines the process of deploying a secure FTP server through Docker. By utilizing Docker, you can achieve faster deployment of FTP Server.
+
 
 ### 💼 Connect with me 👇👇 😊
 
